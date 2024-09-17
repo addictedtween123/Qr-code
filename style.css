@@ -1,0 +1,46 @@
+
+img{    
+    border-radius: 5%;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 208px;
+    height: 200px;
+
+} 
+
+div.two{
+    height:360px;
+    max-width: 232px;
+    background-color: white;
+    border-radius: 5%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    border-style: hidden;
+    margin-top: 80px;   
+    
+    padding-top: 15px;
+}
+
+body{
+    background-color: hsl(212, 45%, 89%);
+}
+ 
+body{
+    font-family: 'url(Outfit-VariableFont', sans-serif;
+    background-color: none;
+} 
+
+@font-face {
+        font-family:Outfit-VariableFont;
+    src: url(Outfit-VariableFont_wght.ttf);
+}
+p{
+    font-size: 18px;
+}
+p.one{
+    font-size: 15px;
+}
+.attribution{
+    padding-top: 12px;
+}
